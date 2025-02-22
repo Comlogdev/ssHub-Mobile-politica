@@ -1,7 +1,5 @@
-# ssHub-Mobile-politica
 # Política de Privacidade
 
-# Política de Privacidade
 
 **Última atualização:** 2025-02-21
 Autor: Ícaro Felipe de Lanes
